@@ -1,6 +1,6 @@
-# Hey there, I'm **Hager Hamdan** ✨
+# Hi, I'm **Hager Hamdan**
 
-A student passionate about backend development & AI. Always curious, always learning. 💖
+A student passionate about backend development & AI. Always curious, always learning.
 
 ---
 
