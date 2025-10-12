@@ -14,13 +14,13 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<div style="display: flex; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=imhaqer&show_icons=true&theme=tokyonight&hide_title=true" height="140" style="margin: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imhaqer&show_icons=true&theme=tokyonight&hide_title=true" height="140" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhaqer&theme=tokyonight" height="140" style="margin: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhaqer&theme=tokyonight" height="140" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhaqer&layout=compact&theme=tokyonight" height="140" style="margin: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhaqer&layout=compact&theme=tokyonight" height="140" />
 
 </div>
 
