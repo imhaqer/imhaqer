@@ -1,4 +1,4 @@
-# Hi, I'm Hager Hamdan
+# Hi, I'm Hager Hamdan!
 
 ### Software Engineering Student | Backend & AI Enthusiast
 
