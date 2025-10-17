@@ -30,23 +30,6 @@ Backend & AI Enthusiast
 
 </div>
 
----
-
-### 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hager-hamdan-320692251/)  
-✉️ hagerabuanga@gmail.com
-
-
-
-
-
-
-
-
-
-
-
 <!---
 imhaqer/imhaqer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
