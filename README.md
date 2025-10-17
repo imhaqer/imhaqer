@@ -12,6 +12,11 @@ Backend & AI Enthusiast
 
 ---
 
+### 🛠️ Primary Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### 📈 GitHub Stats
 
 <div style="display: flex; gap: 20px;">
@@ -20,7 +25,8 @@ Backend & AI Enthusiast
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhaqer&theme=tokyonight" height="140" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhaqer&layout=compact&theme=tokyonight" height="140" />
+  <!-- Custom language stats with C++ emphasis -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhaqer&layout=compact&theme=tokyonight&hide=html,css,javascript&langs_count=6" height="140" />
 
 </div>
 
