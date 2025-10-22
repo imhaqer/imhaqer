@@ -47,7 +47,7 @@
 ### 🚀 What I’m Working On:
 
 - Deepening my understanding of backend systems and API architecture
-- Building personal backend projects using FastAPI + PostgreSQL
+- Studying cloud platforms — currently focused on AWS and Azure
 - Learning more about CI/CD with **GitHub Actions**
 - Exploring container orchestration with **Docker Compose**
 - Collaborating with a team to build an AI-powered travel assistant as part of a real-world project
