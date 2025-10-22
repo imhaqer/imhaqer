@@ -59,7 +59,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=imhaqer&show_icons=true&theme=default&hide_title=true" height="140" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imhaqer&theme=default" height="140" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhaqer&layout=compact&theme=default&hide=html,css,javascript&langs_count=6" height="140" />
 
 
