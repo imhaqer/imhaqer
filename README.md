@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hager Hamdan!</h1>
 
 <p align="center">
-  Junior Backend & AI Developer • Python • Hive Helsinki Student  
+ Aspiring developer who’s driven by a “learn by doing” mindset.
   <br/>
   Passionate about building intelligent systems
 </p>
@@ -22,6 +22,7 @@
 - **Frameworks & Libraries**  
   <div align="left" style="display: flex; gap: 30px; flex-wrap: nowrap; align-items: center; margin-bottom: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" alt="SQLAlchemy" />
   </div>
 
 - **Databases**  
